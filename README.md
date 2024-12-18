@@ -7,8 +7,9 @@ Ce projet met en place un Data Lake organisé pour les fichiers CSV, un pipeline
 🗂️ Structure du Data Lake
 
 Les fichiers CSV sont organisés en dossiers par catégorie :
+![image](https://github.com/user-attachments/assets/f3677407-c5f6-4836-bcd8-f9bf7d622368)
 
-![image](https://github.com/user-attachments/assets/929765f9-0ece-4424-a226-8db3a3d8833c)
+
 
 
 Chaque dossier contient des fichiers CSV prêts à être utilisés pour les processus ETL.
@@ -20,6 +21,8 @@ Le script ETL extrait les données des fichiers CSV, les transforme pour respect
 🗄️ Schéma SQL du Data Warehouse
 Le schéma relationnel utilisé pour le Data Warehouse est le suivant :
 
+
+![image](https://github.com/user-attachments/assets/929765f9-0ece-4424-a226-8db3a3d8833c)
 
 Tables :
 dim_orders : order_id, order_status
