@@ -1,8 +1,11 @@
 🚀 Projet Data Lake & Data Warehouse : Analyse des Ventes
+
 📑 Description
+
 Ce projet met en place un Data Lake organisé pour les fichiers CSV, un pipeline ETL Python pour l'extraction et la transformation des données, ainsi qu'un Data Warehouse avec un schéma SQL optimisé. Des requêtes analytiques ont été effectuées pour extraire des insights significatifs.
 
 🗂️ Structure du Data Lake
+
 Les fichiers CSV sont organisés en dossiers par catégorie :
 
 ![image](https://github.com/user-attachments/assets/1791f89d-2e4e-40d2-918a-3bf5317202b4)
