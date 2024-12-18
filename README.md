@@ -1,5 +1,5 @@
 Structure du DataLake : 
-6 dossiers avec les fichiers CSV dedans : 
+6 dossiers avec les fichiers CSV dedans : On peut avoir plusieurs ficchiers dans un dossier comme pour le dossier products et orders.
 
 ![image](https://github.com/user-attachments/assets/1791f89d-2e4e-40d2-918a-3bf5317202b4)
 
