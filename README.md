@@ -8,7 +8,8 @@ Ce projet met en place un Data Lake organisé pour les fichiers CSV, un pipeline
 
 Les fichiers CSV sont organisés en dossiers par catégorie :
 
-![image](https://github.com/user-attachments/assets/1791f89d-2e4e-40d2-918a-3bf5317202b4)
+![image](https://github.com/user-attachments/assets/929765f9-0ece-4424-a226-8db3a3d8833c)
+
 
 Chaque dossier contient des fichiers CSV prêts à être utilisés pour les processus ETL.
 
