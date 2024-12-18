@@ -25,11 +25,17 @@ Le schéma relationnel utilisé pour le Data Warehouse est le suivant :
 ![image](https://github.com/user-attachments/assets/929765f9-0ece-4424-a226-8db3a3d8833c)
 
 Tables :
+
 dim_orders : order_id, order_status
+
 dim_products : product_id, price, product_category_name_english
+
 dim_customers : customer_id, customer_city, customer_state
+
 dim_sellers : seller_id, seller_city
+
 dim_time : date_id, month, quarter, year, order_purchase_timestamp
+
 fact_sales : order_id, product_id, customer_id, seller_id, date_id, payment_value, order_item_id
 
 
