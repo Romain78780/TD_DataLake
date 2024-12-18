@@ -29,5 +29,4 @@ dim_sellers : seller_id, seller_city
 dim_time : date_id, month, quarter, year, order_purchase_timestamp
 fact_sales : order_id, product_id, customer_id, seller_id, date_id, payment_value, order_item_id
 
-![image](https://github.com/user-attachments/assets/92a410d9-9a41-4cfe-adc8-98cc15515354)
 
